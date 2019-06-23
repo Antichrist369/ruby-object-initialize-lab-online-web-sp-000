@@ -4,6 +4,6 @@ class Dog
     
     @breed = breed 
     
-    
+    puts "breed: #{breed}"
   end 
 end 
